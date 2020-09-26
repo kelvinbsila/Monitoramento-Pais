@@ -1,6 +1,12 @@
 # Monitoramento-Pais
 
-Apenas Mockup de telas das telas de como seria o aplicativo
+### *Descrição* :grey_exclamation:
+
+> Aplicativo para pais monitorarem seus filhos
+
+> Com a intenção de diminuir o abuso e desaparecimento infantil
+
+> Status do projeto: Apenas Mockup
 
 ![WhatsApp_Image_2020-09-23_at_08 14 44__1_-removebg-preview-removebg-preview](https://user-images.githubusercontent.com/58003503/94344466-063e3800-fff6-11ea-98f2-00ff8aaac690.png)
 ![WhatsApp_Image_2020-09-23_at_08 14 44-removebg-preview-removebg-preview](https://user-images.githubusercontent.com/58003503/94344467-076f6500-fff6-11ea-890b-09c300e4240d.png)
